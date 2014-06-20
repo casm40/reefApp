@@ -12,7 +12,7 @@ left: 70%
 - World Heritage Site
 - Much of it protected by [Great Barrier Reef Marine Park](http://www.gbrmpa.gov.au/)
 
-
+Fish Dataset
 ===========
 - [Great Barrier Reef Fish Biological Data](http://era.deedi.qld.gov.au/1776/)
 - Collected by Ian Walkden Brown
@@ -29,7 +29,7 @@ Interactive controls
 
 - **Slider:** To control plot
 - **Checkboxes:** To control table
-***
+
 Main panel
 ----------
 Detailed (tabbed) display
@@ -40,10 +40,13 @@ Detailed (tabbed) display
 
 Sidebar
 =======
+<<<<<<< HEAD
 left: 30%
 ![Sidebar](reefSlides-figure/sidebar.png)
+=======
+![Sidebar](images/sidebar.png)
+>>>>>>> FETCH_HEAD
 
-***
 
 - **Slider:** Controls number of fish species displayed in Plot.
 - **Checkboxes:** Controls columns displayed in Table.
@@ -56,8 +59,6 @@ Bar chart of the frequency with which fish were found
 - **Y-Axis:** Count of fish in dataset
 - **Slider:** Adjusts the number of species shown
 
-***
-
 ![Plot](images/plot.png)
 
 Table Tab
@@ -68,8 +69,6 @@ Displays six columns of data from the dataset in an interactive table
 - **Checkboxes:** Unchecking the checkbox removes the corresponding column
 - **Details:** Hyperlinks to massive database of fish
 
-***
-
 ![Table](images/table.png)
 
 Dataset Tab
@@ -79,9 +78,7 @@ Displays details of the dataset
 - Describes columns
 - Only the 7 columns with the most complete data are shown in the table
 
-***
-
-![Dataset](images/dataset.png)
+![Dataset](reefSlides-figure/dataset.png)
 
 Summary
 =======
