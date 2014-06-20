@@ -12,14 +12,9 @@ Introduction: The Great Barrier Reef
 - World Heritage Site
 - Much of it protected by [Great Barrier Reef Marine Park](http://www.gbrmpa.gov.au/)
 
-<<<<<<< HEAD
-Fish Dataset
-===========
-=======
 
 Fish Dataset
 ------------
->>>>>>> FETCH_HEAD
 - [Great Barrier Reef Fish Biological Data](http://era.deedi.qld.gov.au/1776/)
 - Collected by Ian Walkden Brown
 - FRDC-funded project: Reproduction and Recruitment of Great Barrier Reef Food Fish Stocks (FRDC 90/18)
@@ -38,33 +33,17 @@ Interactive controls
 - **Slider:** To control plot
 - **Checkboxes:** To control table
 
-<<<<<<< HEAD
-Main panel
-----------
-=======
 ### Main panel
 
->>>>>>> FETCH_HEAD
 Detailed (tabbed) display
 
 - **Plot Tab:** Interactive plot of main species measured
 - **Table Tab:** Interactive table of raw data
 - **Dataset Tab:** Dataset details and acknowledgements
 
-<<<<<<< HEAD
-Sidebar
-=======
-<<<<<<< HEAD
-left: 30%
-![Sidebar](reefSlides-figure/sidebar.png)
-=======
-![Sidebar](images/sidebar.png)
->>>>>>> FETCH_HEAD
-=======
 Sidebar (Figure 3)
 ------------------
 ![Sidebar](https://cloud.githubusercontent.com/assets/3464938/3346469/be60e114-f8c6-11e3-9638-37d55cd36947.png)
->>>>>>> FETCH_HEAD
 
 
 - **Slider:** Controls number of fish species displayed in Plot.
@@ -81,13 +60,9 @@ Bar chart of the frequency with which fish were found
 - **Y-Axis:** Count of fish in dataset
 - **Slider:** Adjusts the number of species shown
 
-<<<<<<< HEAD
-![Plot](images/plot.png)
-=======
 ![Plot](https://cloud.githubusercontent.com/assets/3464938/3346468/bbe8197a-f8c6-11e3-996b-b8de70527ed9.png)
 
 ### Table Tab (Figure 5)
->>>>>>> FETCH_HEAD
 
 Displays six columns of data from the dataset in an interactive table
 
@@ -95,24 +70,16 @@ Displays six columns of data from the dataset in an interactive table
 - **Checkboxes:** Unchecking the checkbox removes the corresponding column
 - **Details:** Hyperlinks to massive database of fish
 
-<<<<<<< HEAD
-![Table](images/table.png)
-=======
 ![Table](https://cloud.githubusercontent.com/assets/3464938/3346472/c5362030-f8c6-11e3-8c78-86d96ad61358.png)
 
 ### Dataset Tab (Figure 6)
->>>>>>> FETCH_HEAD
 
 Displays details of the dataset
 
 - Describes columns
 - Only the 7 columns with the most complete data are shown in the table
 
-<<<<<<< HEAD
-![Dataset](reefSlides-figure/dataset.png)
-=======
 ![Dataset](https://cloud.githubusercontent.com/assets/3464938/3346462/b3c6f7ca-f8c6-11e3-9d34-92c056345a9f.png)
->>>>>>> FETCH_HEAD
 
 Summary
 -------
