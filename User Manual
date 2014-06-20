@@ -12,6 +12,8 @@ left: 70%
 - World Heritage Site
 - Much of it protected by [Great Barrier Reef Marine Park](http://www.gbrmpa.gov.au/)
 
+![Parrot fish](https://cloud.githubusercontent.com/assets/3464938/3346465/b99e3bea-f8c6-11e3-861a-fad4a086a331.jpg)
+
 Fish Dataset
 ===========
 - [Great Barrier Reef Fish Biological Data](http://era.deedi.qld.gov.au/1776/)
@@ -20,7 +22,7 @@ Fish Dataset
 - Over 9671 observations of 15 variables
 - In csv file, so not easy to explore
 
-        
+![Moorish idol](https://cloud.githubusercontent.com/assets/3464938/3346464/b6ed2d8e-f8c6-11e3-8665-13e993d02e69.jpg)
 App Layout
 ==========
 Left sidebar
@@ -40,7 +42,7 @@ Detailed (tabbed) display
 
 Sidebar
 =======
-![Sidebar](images/sidebar.png)
+![Sidebar](https://cloud.githubusercontent.com/assets/3464938/3346469/be60e114-f8c6-11e3-9638-37d55cd36947.png)
 
 
 - **Slider:** Controls number of fish species displayed in Plot.
@@ -54,7 +56,7 @@ Bar chart of the frequency with which fish were found
 - **Y-Axis:** Count of fish in dataset
 - **Slider:** Adjusts the number of species shown
 
-![Plot](images/plot.png)
+![Plot](https://cloud.githubusercontent.com/assets/3464938/3346468/bbe8197a-f8c6-11e3-996b-b8de70527ed9.png)
 
 Table Tab
 =========
@@ -64,7 +66,7 @@ Displays six columns of data from the dataset in an interactive table
 - **Checkboxes:** Unchecking the checkbox removes the corresponding column
 - **Details:** Hyperlinks to massive database of fish
 
-![Table](images/table.png)
+![Table](https://cloud.githubusercontent.com/assets/3464938/3346472/c5362030-f8c6-11e3-8c78-86d96ad61358.png)
 
 Dataset Tab
 ===========
@@ -73,7 +75,7 @@ Displays details of the dataset
 - Describes columns
 - Only the 7 columns with the most complete data are shown in the table
 
-![Dataset](reefSlides-figure/dataset.png)
+![Dataset](https://cloud.githubusercontent.com/assets/3464938/3346462/b3c6f7ca-f8c6-11e3-9d34-92c056345a9f.png)
 
 Summary
 =======
